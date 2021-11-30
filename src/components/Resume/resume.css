@@ -1,0 +1,46 @@
+.imagePadding {
+  margin-top: 15px;
+}
+/* 
+.resumeHeader {
+  margin-bottom: 15px !important;
+} */
+
+.resumeList li {
+  font-size: 24px !important;
+  /* width: 400px; */
+  /* display: inline-block; */
+  text-align: center;
+}
+
+.resumeList ul {
+  align-content: center;
+  text-align: center;
+  width: 70%;
+  margin: auto;
+  list-style-type: none;
+}
+
+li span {
+  position: relative;
+  left: -20px;
+}
+
+.skillUnderline {
+  /* text-decoration: underline; */
+  border-bottom: black solid 5px;
+}
+
+.containerMargin {
+  margin-top: 50px;
+}
+
+/* @media (max-width: 470px) {
+  .mainHeader {
+    width: auto;
+  }
+
+  .resumeList ul {
+    width: auto !important;
+  }
+} */
