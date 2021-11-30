@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/20-react-portfolio/static/css/main.756ccb9b.chunk.css",
+    "main.js": "/20-react-portfolio/static/js/main.6b29e12f.chunk.js",
+    "main.js.map": "/20-react-portfolio/static/js/main.6b29e12f.chunk.js.map",
+    "runtime-main.js": "/20-react-portfolio/static/js/runtime-main.d52a943d.js",
+    "runtime-main.js.map": "/20-react-portfolio/static/js/runtime-main.d52a943d.js.map",
+    "static/css/2.68fcf37a.chunk.css": "/20-react-portfolio/static/css/2.68fcf37a.chunk.css",
+    "static/js/2.ae88fb53.chunk.js": "/20-react-portfolio/static/js/2.ae88fb53.chunk.js",
+    "static/js/2.ae88fb53.chunk.js.map": "/20-react-portfolio/static/js/2.ae88fb53.chunk.js.map",
+    "static/js/3.1ae2cebc.chunk.js": "/20-react-portfolio/static/js/3.1ae2cebc.chunk.js",
+    "static/js/3.1ae2cebc.chunk.js.map": "/20-react-portfolio/static/js/3.1ae2cebc.chunk.js.map",
+    "index.html": "/20-react-portfolio/index.html",
+    "static/css/2.68fcf37a.chunk.css.map": "/20-react-portfolio/static/css/2.68fcf37a.chunk.css.map",
+    "static/css/main.756ccb9b.chunk.css.map": "/20-react-portfolio/static/css/main.756ccb9b.chunk.css.map",
+    "static/js/2.ae88fb53.chunk.js.LICENSE.txt": "/20-react-portfolio/static/js/2.ae88fb53.chunk.js.LICENSE.txt",
+    "static/media/codingquiztestsize.58f1e503.png": "/20-react-portfolio/static/media/codingquiztestsize.58f1e503.png",
+    "static/media/employeetrackerss2.f4a2a4eb.png": "/20-react-portfolio/static/media/employeetrackerss2.f4a2a4eb.png",
+    "static/media/fitnesstrackerfinalSS.c722cdaf.png": "/20-react-portfolio/static/media/fitnesstrackerfinalSS.c722cdaf.png",
+    "static/media/passwordgeneratortestsize.a5ae23db.png": "/20-react-portfolio/static/media/passwordgeneratortestsize.a5ae23db.png",
+    "static/media/profile-pic-4.651f9a64.png": "/20-react-portfolio/static/media/profile-pic-4.651f9a64.png",
+    "static/media/resumescreenshot.63ae37e6.png": "/20-react-portfolio/static/media/resumescreenshot.63ae37e6.png",
+    "static/media/weatherdashboardtestsize2.fada0894.png": "/20-react-portfolio/static/media/weatherdashboardtestsize2.fada0894.png",
+    "static/media/workdayschedulertestsize2.be006876.png": "/20-react-portfolio/static/media/workdayschedulertestsize2.be006876.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d52a943d.js",
+    "static/css/2.68fcf37a.chunk.css",
+    "static/js/2.ae88fb53.chunk.js",
+    "static/css/main.756ccb9b.chunk.css",
+    "static/js/main.6b29e12f.chunk.js"
+  ]
+}
